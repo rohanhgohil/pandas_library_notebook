@@ -14,3 +14,5 @@ In this section, you will learn how to create and work with 2D DataFrames using 
 
 ### 3. Data Selection in a DataFrame
 Here, we explore different ways to select data in a DataFrame, including selecting columns using dot notation and square brackets, accessing rows using index locations and label-based selection with the loc and iloc methods.
+
+**Enjoy Playing with Pandas Library for Series and DataFrame**
